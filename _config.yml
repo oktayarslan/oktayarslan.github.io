@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oktay Arslan / Site Title"
+title                    : "Oktay Arslan"
 title_separator          : "-"
 name                     : &name "Oktay Arslan"
 description              : &description "personal description"
 url                      : https://oktayarslan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "oktayarslan/oktayarslan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Oktay Arslan"
   avatar           : "oktay_arslan.jpg"
-  bio              : "AI/Robotics Software Engineer at A³ by Airbus"
+  bio              : "AI/Robotics Software Engineer"
   location         : "Palo Alto, California"
-  employer         :
+  employer         : "A³ by Airbus"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0l4RgjEAAAAJ"
   email            : "oktay.arslan@gmail.com"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "oarslan3"
   wikipedia        :
 
 
