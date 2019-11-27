@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oktay Arslan"
   avatar           : "oktay_arslan.png"
-  bio              : "AI/Robotics Software Engineer at A3 by Airbus"
+  bio              : "AI/Robotics Software Engineer at A³ by Airbus"
   location         : "Palo Alto, California"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "oktayarslan"
-  orcid            : "0000-0001-5971-8875"
+  orcid            : "https://orcid.org/0000-0001-5971-8875"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
