@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "CV"
+layout: pdf
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-![Alt](oktay_arslan_resume.pdf)
+<iframe src="https://www.dropbox.com/home/Public?preview=oktay_arslan_resume.pdf" width="100%" height="100%"></iframe>
