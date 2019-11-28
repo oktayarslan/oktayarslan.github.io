@@ -8,5 +8,5 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/oktay_arslan_resume.pdf"></iframe>
+<object data="{{ /files/oktay_arslan_resume.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
