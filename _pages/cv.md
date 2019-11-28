@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-To be added soon.
+![Alt](/files/oktay_arslan_resume.pdf)
