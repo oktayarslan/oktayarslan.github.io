@@ -8,6 +8,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://drive.google.com/drive/folders/0B2VPSjJUFNb1blpyUGRCYnpkeEk/preview" width="640%" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1jwtcfVUhqavmeJiWjQaVWEJktf0eChjm/preview" width="640" height="480"></iframe>
 
 
