@@ -1,0 +1,54 @@
+---
+---
+
+<div class="text-justify">
+    {{reference}}
+</div>
+
+{% if entry.note %}
+<div>
+    <em>{{ entry.note }}</em>
+</div>
+{% endif %}
+
+
+<script type="text/javascript">
+function toggleDiv(key_bibtex) {
+  var x = document.getElementById(key_bibtex);
+  if (x.style.display == "none") {
+    x.style.display = "block";
+  } 
+  else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+<div>
+    {% if entry.doi %}
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a>
+    {% endif %}
+
+    {% if entry.hal_id %}
+    <a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">hal</a>
+    {% endif %}
+
+
+    {% if entry.pdf %}
+    <a href="{{ entry.pdf }}">pdf</a>
+    {% endif %}
+
+    <a data-toggle="collapse" href="javascript:toggleDiv('{{key}}-bibtex')">bibtex</a>
+
+
+    <div id="{{key}}-bibtex" style="display:none;">
+     <pre class="collapse">{{entry.bibtex}}</pre>
+    </div>
+
+
+
+</div>
+
+
+
+    
