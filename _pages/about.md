@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am the AI/Robotics Software Engineer at the [A³ by Airbus](https://www.airbus-sv.com/). I work on the various autonomy tasks in the [Wayfinder](https://www.airbus-sv.com/projects/10) project.
 
 Previously, I was the Autopilot Software Engineer of Autopilot Department at [Tesla Inc](https://www.tesla.com/). In this role, I contributed to the development of vehicle intelligence software, namely behavior planning, path planning and controls, for Tesla’s Model S, E, X cars. Prior to my role at Tesla Inc, I was the Robotics Research Engineer at [Voyage Auto, Inc](https://voyage.auto/). I was responsible for the development of fast, reliable motion planning and controls software for self-driving taxis.

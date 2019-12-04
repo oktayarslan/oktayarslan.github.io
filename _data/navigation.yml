@@ -20,6 +20,20 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Blog"
+    url: /blog/  
+  
+  - title: "Contact"
+    url: /contact/  
+
+  - title: "Ortak Çalışma İmkanı"
+    url: /collaboration/
     
+  - title: "SSS"
+    url: /sss/
+  
+  - title: "NSS"
+    url: /nss/    
   #- title: "Guide"
   #  url: /markdown/
