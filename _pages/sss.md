@@ -50,7 +50,7 @@ a:active.sss_question {
 
 
 <div>
-  <p id="sss_question_check" style="text-align: justify;"> Aşağıdaki listede eposta ve sosyal medya aracılığıyla sıklıkla yöneltilen soruları ve cevaplarımı okuyabilirsiniz. Fırsat buldukça bu listeyi zaman içerisinde güncellemeye çalışacağım. Cevaplarım tamamen kişisel görüşlerim olup tecrübelerime dayanarak edindiğim fikirlerden oluşmaktadır. Bana katılmak ve tavsiyelerimi uygulamak zorunda değilsiniz!</p>
+  <p id="sss_question_check" style="text-align: justify;"> Aşağıdaki listede eposta ve sosyal medya aracılığıyla sıkça yöneltilen soruları ve cevaplarımı okuyabilirsiniz. Fırsat buldukça bu listeyi zaman içerisinde güncellemeye çalışacağım. Cevaplarım tamamen kişisel görüşlerim olup tecrübelerime dayanarak edindiğim fikirlerden oluşmaktadır. Bana katılmak ve tavsiyelerimi uygulamak zorunda değilsiniz!</p>
 
   <ol>
       <li> 
@@ -60,6 +60,14 @@ a:active.sss_question {
       </li>
       <div class = "sss_answer">
         Evet. Tesla'da çalıştığım zamanlarda kendisi mütemadiyen otopilot ile ilgili haftalık mühendislik toplantılarına katılırdı.
+      </div>
+      <li> 
+        <a  data-toggle="collapse" class = "sss_question"> 
+        NASA, Tesla gibi çok gözde kurumlarda çalışan mühendislerin maaşı ne kadardır?
+        </a> 
+      </li>
+      <div class = "sss_answer">
+        İnternette pek çok firmanın maaş politikalarıyla ilgili istatistiki bilgiler mevcuttur. Örneğin Glassdoor sitesi: <a href="https://www.glassdoor.com/Overview/Working-at-NASA-EI_IE7304.11,15.htm">NASA</a> ve <a href="https://www.glassdoor.com/Reviews/san-jose-tesla-reviews-SRCH_IL.0,8_IM761_KE9,14.htm">Tesla</a>
       </div>
       <li> 
         <a data-toggle="collapse" class = "sss_question"> 
@@ -73,7 +81,7 @@ a:active.sss_question {
         Robotiğin yazılım kısmına ilgi duyuyorsanız, üniversitelerin bilgisayar mühendisliği, bilgisayar bilimleri, kontrol mühendisliği, elektrik mühendisliği, elektronik mühendisliği, haberleşme mühendisliği vb bölümleri tercih edebilirsiniz.
         <br>
         <br>
-        Robotiğin donanım kısmına ilgi duyuyorsanız, üniversitelerin elektrik mühendisliği, elektronik mühendisliği, bilgisayar mühendisliği vb bölümleri tercih edebilirsiniz.
+        Robotiğin donanım kısmına ilgi duyuyorsanız, üniversitelerin elektrik mühendisliği, elektronik mühendisliği, haberleşme mühendisliği, bilgisayar mühendisliği vb bölümleri tercih edebilirsiniz.
         <br>
         <br>
         Robotiğin mekanik tasarımıyla ilgileniyorsanız, makine mühendisliği, uçak mühendisliği, uzay mühendisliği vb bölümleri tercih edebilirsiniz.
@@ -92,7 +100,7 @@ a:active.sss_question {
         </a> 
       </li>
       <div class = "sss_answer">
-        Öncelikle ben robotiğin daha çok yazılım geliştirme (kavrama, planlama, kontrol, filtreleme) alanında tecrübe sahibiyim. Bu nedenle robotiğin donanım (elektronik devreler, elektrik motorlar, algılayıcılar vb) ve mekanik tasarımı (makine parçalarının çizimi, üretimi vb) alanlarına ilginiz varsa bu alanlarda çalışan diğer araştırmacılara danışmanızı öneririm.
+        Öncelikle ben robotiğin daha çok yazılım geliştirme (kavrama, planlama, kontrol, filtreleme) alanında tecrübe sahibiyim. Bu nedenle robotiğin donanım (elektronik devreler, elektrikli motorlar, algılayıcılar vb) ve mekanik tasarımı (makine parçalarının çizimi, üretimi vb) alanlarına ilginiz varsa bu alanlarda çalışan diğer araştırmacılara danışmanızı öneririm.
         <br>
         <br>
         Robotiğin yazılım geliştirme kısmıyla ilgileniyorsanız, öncelikle temel matematik, ayrık matematik, doğrusal cebir, olasılık ve istatistik, diferansiyel denklemler, temel programlama, veri yapıları, nesne yönelimli programlama, algoritma analizi ve tasarımı, statik, dinamik, doğrusal kontrol sistemleri, kestirim ve filtreleme kuramı, doğrusal optimizasyon, doğrusal olmayan optimizasyon gibi dersleri almanızı tavsiye ederim. Bu derslere ek olarak robotik alanına giriş yapmak için aşağıdaki kitaplardan yararlanabilirsiniz.
@@ -116,7 +124,7 @@ a:active.sss_question {
           <li>olasılık teorisi ve istatistik (probability theory and statistics)</li>
           <li>optimizasyona giriş (introduction to optimization)</li>
         </ul>
-        İlginize bağlı olarak optimizasyon alanında ileri seviyedeki konuları öğrenmek için aşağıdaki dersleri alabilirsiniz. 
+        İlginize bağlı olarak optimizasyon alanında ileri seviyedeki konuları da öğrenmek isterseniz aşağıdaki dersleri alabilirsiniz. 
         <ul>
           <li>doğrusal programlama (linear programming)</li>
           <li>doğrusal olmayan programlama (nonlinear programming)</li>
@@ -127,7 +135,7 @@ a:active.sss_question {
           <li>makine öğrenmesine giriş (introduction to machine learning)</li>
           <li>pekiştirmeli öğrenme (reinforcement learning)</li>
         </ul>
-        Makine ogrenmesi alanina giriş yaptiktan sonras ilgi alanınıza göre aşağıdaki konularda dersler alarak uzmanlasabilirsiniz.
+        Makine öğrenmesi alanına giriş yaptıktan sonras ilgi alanınıza göre aşağıdaki konularda dersler alarak uzmanlasabilirsiniz.
         <ul>
           <li>olasılıksal grafik modelleri (probabilistic graphical models)</li>
           <li>derin öğrenme (deep learning)</li>
@@ -222,14 +230,6 @@ a:active.sss_question {
           <li>mektubu yazmamda yardımcı olacak diğer belgeler (CV, not dökümü, TOEFL, GRE vb)</li>
         </ul>
         Bazı üniversiteler ve kurumlar referans mektuplarını internet üzerinden belirli formlar aracılığıyla istemektedir. Bu durumda referans mektubunun yazılacağı site bilgisini bana ulaştırmanız gerekmektedir. İlgili site bilgisini bana göndermeden önce formun kendiniz ile ilgili kısımları doldurmayı unutmayınız.
-      </div>
-      <li> 
-        <a  data-toggle="collapse" class = "sss_question"> 
-        NASA, Tesla gibi çok gözde kurumlarda çalışan mühendislerin maaşı ne kadardır?
-        </a> 
-      </li>
-      <div class = "sss_answer">
-        İnternette pek çok firmanın maaş politikalarıyla ilgili istatistiki bilgiler mevcuttur. Örneğin Glassdoor sitesi: <a href="https://www.glassdoor.com/Overview/Working-at-NASA-EI_IE7304.11,15.htm">NASA</a> ve <a href="https://www.glassdoor.com/Reviews/san-jose-tesla-reviews-SRCH_IL.0,8_IM761_KE9,14.htm">Tesla</a>
       </div>
       <li> 
         <a  data-toggle="collapse" class = "sss_question">NASA'da çalışmak benim çocukluk hayalim; NASA'ya astronot olarak nasıl girebilirim?</a> 

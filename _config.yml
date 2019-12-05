@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Oktay Arslan"
   avatar           : "oktay_arslan.jpg"
-  bio              : "AI/Robotics Software Engineer"
-  location         : "Palo Alto, California"
+  bio              : "Autonomy, Robotics, AI, CV, ML Researcher"
+  location         : "Sunnyvale, California"
   employer         : "A³ by Airbus"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0l4RgjEAAAAJ"
-  email            : "oktay.arslan@gmail.com"
+  email            : "oktay@arslan.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -17,7 +17,7 @@ share: false
       onload="if(submitted) {window.location='/thankyou/';}">
 </iframe>
 <p style="text-align: justify;">
-Please read the frequently asked questions (FAQ) before contacting Oktay. Many common questions are answered there. If not, then please fill out the form for consulting and other requests (giving talks, collaboration, etc).
+Please read the frequently asked questions (FAQs) before contacting me. Many common questions are answered there. If not, then please fill out the form for consulting and other requests (giving talks, collaboration, etc).
 <br>
 <span style="color:red;">*Required</span>
 </p>
