@@ -9,10 +9,6 @@ excerpt:
 share: false
 ---
 
-Will be added soon!
-
-<!--
-
 <div class="home">
   
   <ul class="post">
@@ -27,5 +23,3 @@ Will be added soon!
   </ul>
 
 </div>
-
--->
