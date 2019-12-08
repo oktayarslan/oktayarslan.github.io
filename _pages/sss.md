@@ -70,6 +70,18 @@ a:active.sss_question {
         İnternette pek çok firmanın maaş politikalarıyla ilgili istatistiki bilgiler mevcuttur. Örneğin Glassdoor sitesi: <a href="https://www.glassdoor.com/Overview/Working-at-NASA-EI_IE7304.11,15.htm">NASA</a> ve <a href="https://www.glassdoor.com/Reviews/san-jose-tesla-reviews-SRCH_IL.0,8_IM761_KE9,14.htm">Tesla</a>
       </div>
       <li> 
+        <a  data-toggle="collapse" class = "sss_question"> 
+        NASA'dan nasıl iş teklifi aldınız; mülakat süreci nasıldı?
+        </a> 
+      </li>
+      <div class = "sss_answer">
+        Öncelikle kendiliğinden NASA'dan herhangi bir iş teklifi almadım. NASA ve benzeri büyük kurumlar nadir durumlar dışında kimseye başvurmadıkları sürece herhangi bir iş teklifi götürmezler. Dünya genelinde robotik ile ilgili haberlerin, araştırma imkanlarının, iş ilanlarının yayımlandığı <a href = "http://duerer.usc.edu/mailman/listinfo.cgi/robotics-worldwide">robotics-worldwide</a> isimli eposta listesine üyeyim. Bu eposta listesinde NASA JPL'de Mobilite ve Robotik Sistemler Bölümü'ndeki açık olan bir araştırmacı pozisyonuyla ilgili iş ilanını gördüm ve Haziran 2015'te ilgili siteden standart iş başvurusu yaptım.<br>
+        <br>
+        Başvurum ile ilgili ön değerlendirme yapıldıktan sonra sırasıyla 3 farklı NASA mühendisi ile telefonda birer saatlik teknik mülakat oldu. Telefon görüşmelerinin olumlu geçmesi üzerine NASA JPL'in merkezine (Pasadena, Kaliforniya) takımla tanışmak ve iş görüşmesi için davet edildim. Bu ziyaret sırasında Mobilite ve Robotik Sistemler Bölümü'ndeki mühendislere bir saatlik doktora araştırmalarım ve gerçeklediğim robotik, otonomi projelerini anlatan teknik bir sunum yaptım. Aynı zamanda gün boyu (7:30am - 5:00pm) +15 mühendis, takım lideri, proje müdürü ile bazen birebir bazen de gruplar halinde teknik mülakata girdim.<br>
+        <br>
+        NASA JPL'e olan ziyaretimden yaklaşık bir hafta sonra tam zamanlı, kadrolu araştırmacı olarak çalışmak için iş teklifi yapıldı. Bir hafta boyunca yapılan teklif ile ilgili bazı detayları netleştirdikten sonra teklifi kabul ettim. İş teklifini kabul ettikten sonra sağlıkla ilgili testler, sicil kaydı, referans verilen kişilerle görüşme, geçmiş çalışılan yerlerin ve eğitim bilgilerinin teyit edilmesi için iki aylık bekleme süresi oldu. Bütün incelemelerin ve teyitlerin başarıyla sonuçlanmasıyla Eylül 2015'in son haftası doktora tez savunmamı başarıyla vererek doktora mezuniyetini beklemeden Ekim 2015'te Pasadena'daki merkezde çalışmaya yaptım.  
+      </div>
+      <li> 
         <a data-toggle="collapse" class = "sss_question"> 
         Lise öğrencisiyim; robotik alanına ilgi duyuyorum. Üniversitede hangi bölümü okumalıyım?
         </a> 
@@ -237,13 +249,7 @@ a:active.sss_question {
       <div class = "sss_answer">
         NASA bazı dönemlerde yetiştirilmek üzere ABD vatandaşları arasından astronot adayları seçer ve bu adayları uzun yıllar teknik ve fiziksel olarak zorlu bir eğitime tabi tutar. NASA Astronot Yetiştirme Programı'nı başarıyla tamamlayanlar astronot adayı unvanını alarak bir sonraki uzay görevlerine katılmaya hak kazanırlar. Daha sonra astronot adayları bir uzay görevine katıldıktan sonra astronotluk unvanına sahip olurlar. Dolayısıyla bir kimsenin astronot adayı olabilmesi için öncelikle ABD vatandaşı olması gerekir. Eğer ABD vatandaşı iseniz, bu linklerden astronot yetiştirme programı hakkında detaylı bilgiler edinebilirsiniz: <a href = "https://astronauts.nasa.gov/default.htm">seçilme koşulları</a> ve <a href = "https://astronauts.nasa.gov/content/application.htm">başvuru yapma</a>
       </div>
-
-
-
-
-
-
-
+      
       <!--
       <li> 
         <a  data-toggle="collapse" class = "sss_question"> 
