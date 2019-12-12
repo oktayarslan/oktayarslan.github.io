@@ -81,4 +81,5 @@ Eğer kendinizle ilgili temel bilgileri aşağıdaki form aracılığıyla doldu
 <form action="https://docs.google.com/forms/d/1Nz7EEnitttiC-aUHBvgO7ADVHm0wfvvXKAq00jumqIY">
     <input type="submit" value="Formu Doldur" />
 </form>
+İlgili çalışmalar şu anda veya geçmişte bağlı bulunduğum kurumlardan bağımsız olup tamamen kişisel gayretimle gönüllülük ilkesine dayanarak yürüttüğüm projelerdir.
 </p>
